@@ -1,0 +1,5 @@
+{
+  "Outdoor": ["o1.jpg", "o2.jpg"],
+  "Indoor": ["i1.jpg", "i2.jpg"],
+  "UV Printing": ["uv1.jpg", "uv2.jpg"]
+}
