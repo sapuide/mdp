@@ -1,0 +1,16 @@
+const Promo = "<a href=\"/promo.html\">PROMO Terbaru 2023! di Mutiara Digital Printing</a>";
+const InfoBaru1 = "<a href=\"/info.html\">Perubahan Jam Buka, Lanjut Baca...</a>";
+const InfoBaru2 = "";
+const InfoBaru3 = "";
+const InfoBaru4 = "";
+const Pengumuman = "Perubahan Jadwal Buka Mutiara Digital Printing Selama Pandemi Covid-19 <span><a href=\"info.html\">Lanjut Baca.</span></a><br><br>Ayo Lihat proses produksi di Mutiara Digital Printing <span><a href=\"\outdoor.html\">Lihat.</span></a>";
+const Pengum1 = "Perubahan Jadwal Buka Mutiara Digital Printing,  Menjadi<br>Hari Senin s/d Sabtu: <b>08.00 - 18.00 WIB<br></b>Hari <b>Minggu: TUTUP<br>";
+const InfoA = "PROMO Terbaru 2023! di Mutiara Digital Printing <span><a href=\"/promo.html\">lanjut baca...</span></a>";
+document.getElementById('promo').innerHTML = Promo;
+document.getElementById('infobaru1').innerHTML = InfoBaru1;
+document.getElementById('infobaru2').innerHTML = InfoBaru2;
+document.getElementById('infobaru3').innerHTML = InfoBaru3;
+document.getElementById('infobaru4').innerHTML = InfoBaru4;
+document.getElementById('pengumuman').innerHTML = Pengumuman;
+document.getElementById('pengum1').innerHTML = Pengum1;
+document.getElementById('infoa').innerHTML = InfoA;
