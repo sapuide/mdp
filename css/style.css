@@ -635,7 +635,7 @@ background:rgba(0,0,0,0.80)	;
 }
 
 /* Small devices (tablets, up to 768px) */
-@media (max-width: 768px) {
+@media (max-width: 100%) {
 /* Make the indicators larger for easier clicking with fingers/thumb on mobile */    
 #quote-carousel .carousel-indicators {
 	bottom: -20px !important;
