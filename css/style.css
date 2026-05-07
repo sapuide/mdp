@@ -619,7 +619,7 @@ background:rgba(0,0,0,0.80)	;
 }
 
 /* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) {
+@media (min-width: 100%) {
 #quote-carousel {
 	margin-bottom: 0;
 	padding: 0 40px 30px 40px;
