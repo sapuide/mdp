@@ -49,8 +49,8 @@
 	color: #fff;
 	font-size: 54px;
 	width: 80%;
-	top: 0px;
-	white-space: nowrap;
+	top: 15px;
+	white-space: normal;
 	z-index: 10;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
 	font-weight: normal;
@@ -58,11 +58,11 @@
 }
 .da-slide p {
 	width: 80%;
-	top: 115px;
+	top: 115%;
 	color: #fff;
 	font-size: 24px;
-	line-height: 26px;
-	height: 80px;
+	line-height: 1.2;
+	height: 100%;
 	overflow: hidden;
 	font-weight: normal;
 	text-align: center;
